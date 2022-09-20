@@ -6,7 +6,7 @@ Here are a few things about me and what I'm doing lately:
 
 🔭 I’m currently working for The Bigword ...
 
-✍️ I am a workaholic who loves to create documentation in my free time just for fun! You can check out my [Technical-Writing-Portfolio]() repository to see the technical documents I have produced thus far. 
+✍️ I am a workaholic who loves to create documentation in my free time just for fun! You can check out my [Technical-Writing-Portfolio](https://github.com/Mkinake/Technical_Writing_Portfolio/wiki/Mangesh-Portfolio-software-Document) repository to see the technical documents I have produced thus far. 
 
 🌱 I am a lover of learning, and I'm currently learning myself DITA and software technical Writing.
 
