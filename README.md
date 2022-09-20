@@ -4,7 +4,7 @@ I'm a Analyst Engineer with a passion for crafting quality documentation and lea
 
 Here are a few things about me and what I'm doing lately:
 
-🔭 I’m currently working for The Bigword as the Anlyst Engineer ...
+🔭 I’m currently working for The Bigword ...
 
 ✍️ I am a workaholic who loves to create documentation in my free time just for fun! You can check out my [Technical-Writing-Portfolio]() repository to see the technical documents I have produced thus far. 
 
