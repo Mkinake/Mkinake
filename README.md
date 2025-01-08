@@ -12,6 +12,6 @@ Here are a few things about me and what I'm doing lately:
 
 🌱 I am a lover of learning, and I'm currently learning myself DITA and software technical Writing.
 
-🐙 •	Experience in producing professional data products (<a herf="https://github.com/Mkinake/Mkinake/blob/main/Bigword_project.pbix" View Reports and Dashboards </a>) using a common BI/data visualization platform using Microsoft Power BI Desktop.
+🐙 •	Experience in producing professional data products (<a herf="https://github.com/Mkinake/Mkinake/blob/main/Bigword_project.pbix">View Reports and Dashboards</a>) using a common BI/data visualization platform using Microsoft Power BI Desktop.
 
 ⚡ Fun fact: I installed a Little Free Library in my college community as a part of a class project for my Technical Writing I class. I'm very proud of this accomplishment, and it warms my heart to see community members using it. 📚
