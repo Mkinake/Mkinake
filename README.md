@@ -1,6 +1,6 @@
 ### Hi there, I am Mangesk kinake 👋
 
-I'm a Analyst Engineer with a passion for crafting quality documentation and learning all things technical writing and Localization-related. 
+I am Lead Localization Engineer-Excel with a passion for crafting quality documentation and learning all things technical writing and Localization-related. 
 
 Here are a few things about me and what I'm doing lately:
 
