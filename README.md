@@ -8,7 +8,7 @@ Here are a few things about me and what I'm doing lately:
 
 🚀 I’m learning A.I Magics;
 
-✍️ Dedicated and results-driven Lead Localization Engineer with over 8+ years of experience in Localization including 6 years of relevant experience in managing localization projects, coordinating teams, and facilitating effective communication between stakeholders. Known for delivering high-quality results, with a proven track record of receiving the "Performer of the Year" award for two consecutive years, showcasing consistent excellence and dedication to success. 
+✍️ Dedicated and results-driven Lead Localization Engineer with over 8+ years of experience in Localization including 6 years of relevant experience in managing localization projects, coordinating teams, and facilitating effective communication between stakeholders. Known for delivering high-quality results, with a proven track record of receiving the "<a href="https://github.com/Mkinake/Mkinake/blob/main/IMG_0514.jpeg">Performer of the Year</a>" award for two consecutive years, showcasing consistent excellence and dedication to success. 
 
 🌱 I am a lover of learning, and I'm currently learning myself DITA and software technical Writing.
 
